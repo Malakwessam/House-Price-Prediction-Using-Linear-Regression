@@ -93,7 +93,7 @@ These features have strong relationships with house prices.
 - MSE: **26.98**  
 - R²: **0.63**  
 
- The model now explains about **63% of price variation** 【1-e46aa9】  
+ The model now explains about **63% of price variation**  
 
 
 
